@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20895" hassounds="0" start="node9" appversion="7.1.1a">
+  <panorama id="node9">
+    <input levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" height="2000" width="2000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2000" preload="0" height="2000" predecode="0"/>
+      <level width="1000" preload="0" height="1000" predecode="0"/>
+      <level width="500" preload="1" height="500" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="2020:06:03 22:05:26" source="" description="Emtpy gallery hall room with wooden floor and concrete wall with three empty blacnk picture frames, Interior design with Loft style 360 equirectangular panorama" tags="" author="" customnodeid="" copyright="" info="" latitude="" nodeid="node9" title="Emtpy gallery hall room with wooden floor and concrete wall with three empty blacnk picture frames, Interior design with Loft style 360 equirectangular panorama 3d rendering illustration" heading="0" comment="" longitude=""/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" borderalpha="1" enabled="1" border="1" wordwrap="1" height="20" borderradius="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" textcolor="0x000000" background="1" backgroundalpha="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot customimage="media/hotspot.png" use3D="0" distance3D="571.503" customimageheight="100" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-8.66" customimagewidth="100" url="https://www.auo.com/zh-tw" id="artwork_04" target="" skinid="ht_info" pan="-313.52" title="Sample_04" fov="10"/>
+      <hotspot customimage="media/hotspot-1.png" use3D="0" distance3D="571.503" customimageheight="100" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-12.04" customimagewidth="100" url="https://www.auo.com/zh-tw" id="artwork_03" target="" skinid="ht_info" pan="-340.66" title="Sample_03" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="571.503" customimageheight="100" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-12.4" customimagewidth="100" url="https://www.auo.com/zh-tw" id="artwork_02" target="" skinid="ht_info" pan="-18.79" title="Sample_02" fov="10"/>
+      <hotspot customimage="media/hotspot-3.png" use3D="0" distance3D="571.503" customimageheight="100" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-9.22" customimagewidth="100" url="https://www.auo.com/zh-tw" id="artwork_01" target="" skinid="ht_info" pan="-45.67" title="Sample_01" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="428.627" customimageheight="75" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-4.91" customimagewidth="75" url="https://www.auo.com/zh-tw" id="artwork_05" target="" skinid="ht_info" pan="-161.44" title="Sample_05" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="428.627" customimageheight="75" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-5.04" customimagewidth="75" url="https://www.auo.com/zh-tw" id="artwork_06" target="" skinid="ht_info" pan="-173.95" title="Sample_06" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="428.627" customimageheight="75" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&lt;/p>&#xa;&lt;p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-4.95" customimagewidth="75" url="https://www.auo.com/zh-tw" id="artwork_07" target="" skinid="ht_info" pan="-186.96" title="Sample_07" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="428.627" customimageheight="75" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&lt;/p>&#xa;&lt;p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;https://www.auo.com/zh-tw&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-4.47" customimagewidth="75" url="https://www.auo.com/zh-tw" id="artwork_08" target="" skinid="ht_info" pan="-199.13" title="Sample_08" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="457.202" customimageheight="80" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;aaa&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-2.72" customimagewidth="80" url="https://www.auo.com/zh-tw" id="artwork_09" target="" skinid="ht_info" pan="-221.38" title="Sample_09" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="457.202" customimageheight="80" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;aaa&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-3.79" customimagewidth="80" url="https://www.auo.com/zh-tw" id="artwork_10" target="" skinid="ht_info" pan="-236.17" title="Sample_10" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="514.352" customimageheight="90" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;aaa&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-4.38" customimagewidth="90" url="https://www.auo.com/zh-tw" id="artwork_11" target="" skinid="ht_info" pan="-256.79" title="Sample_11" fov="10"/>
+      <hotspot customimage="media/hotspot-7.png" use3D="0" distance3D="480.062" customimageheight="84" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.&#xa;Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,&#xa;when an unknown printer took a galley of type and scrambled it&lt;/p>&#xa;&lt;p>&lt;a href=&quot;aaa&quot;>連結畫作&lt;/a>&lt;/p>&#xa;&lt;div>" tilt="-4.41" customimagewidth="84" url="https://www.auo.com/zh-tw" id="artwork_12" target="" skinid="ht_info" pan="-281.31" title="Sample_12" fov="10"/>
+    </hotspots>
+    <media>
+      <image rotz="0.550" popoutscaling="100" popbackmode="0" tilt="2.660" height="1000" clickmode="0" hidepinned="0" handcursor="1" rotx="2.800" id="Element01" width="700" pan="-18.700" stretch="1.044" roty="-18.710" fov="18.890">
+        <source url="media/sample_02.jpg"/>
+      </image>
+      <image rotz="0.990" popoutscaling="100" popbackmode="0" tilt="1.720" height="1000" clickmode="0" hidepinned="0" handcursor="0" rotx="1.240" id="Element02" width="700" pan="-46.120" stretch="1.028" roty="-45.840" fov="14.220">
+        <source url="media/sample_01.jpg"/>
+      </image>
+      <image rotz="-0.991" popoutscaling="100" popbackmode="0" tilt="2.833" height="1000" clickmode="0" hidepinned="0" handcursor="0" rotx="3.124" id="Element03" width="700" pan="19.624" stretch="1.042" roty="20.228" fov="18.712">
+        <source url="media/sample_03.jpg"/>
+      </image>
+      <image rotz="-2.164" popoutscaling="100" popbackmode="0" tilt="2.118" height="1000" clickmode="0" hidepinned="0" handcursor="0" rotx="2.961" id="Element04" width="700" pan="46.214" stretch="1.011" roty="46.822" fov="14.193">
+        <source url="media/sample_04.jpg"/>
+      </image>
+      <image rotz="-0.343" popoutscaling="100" popbackmode="0" tilt="0.564" height="1000" clickmode="0" hidepinned="0" handcursor="0" rotx="1.651" id="Element05" width="700" pan="-161.543" stretch="1.050" roty="20.957" fov="6.231">
+        <source url="media/sample_05.jpg"/>
+      </image>
+      <image rotz="0.532" popoutscaling="100" popbackmode="0" tilt="0.638" height="1000" clickmode="0" hidepinned="0" handcursor="0" rotx="-5.976" id="Element06" width="700" pan="-173.901" stretch="1.042" roty="10.372" fov="6.607">
+        <source url="media/sample_06.jpg"/>
+      </image>
+      <image rotz="-0.178" popoutscaling="100" popbackmode="0" tilt="0.701" height="1000" clickmode="0" hidepinned="0" handcursor="0" rotx="-0.425" id="Element07" width="700" pan="173.094" stretch="1.065" roty="-3.614" fov="6.400">
+        <source url="media/sample_07.jpg"/>
+      </image>
+      <image rotz="0.214" popoutscaling="100" popbackmode="0" tilt="0.697" height="1000" clickmode="0" hidepinned="0" handcursor="0" rotx="2.422" id="Element08" width="700" pan="160.728" stretch="1.056" roty="-19.921" fov="6.221">
+        <source url="media/sample_08.jpg"/>
+      </image>
+      <image rotz="0.425" popoutscaling="100" popbackmode="0" tilt="0.483" height="500" clickmode="0" hidepinned="0" handcursor="0" rotx="-0.243" id="Element09" width="2000" pan="-116.808" stretch="0.860" roty="-26.508" fov="83.525">
+        <source url="media/wall.jpg"/>
+      </image>
+      <image rotz="-0.100" popoutscaling="100" popbackmode="0" tilt="0.200" height="580" clickmode="0" hidepinned="0" handcursor="0" rotx="-0.290" id="Element09" width="1000" pan="138.430" stretch="0.553" roty="57.220" fov="15.000">
+        <source url="media/sample_09.jpg"/>
+      </image>
+      <image rotz="-0.390" popoutscaling="100" popbackmode="0" tilt="0.310" height="580" clickmode="0" hidepinned="0" handcursor="0" rotx="0.560" id="Element10" width="1000" pan="123.890" stretch="0.646" roty="40.540" fov="16.810">
+        <source url="media/sample_10.jpg"/>
+      </image>
+      <image rotz="-0.130" popoutscaling="100" popbackmode="0" tilt="0.350" height="580" clickmode="0" hidepinned="0" handcursor="0" rotx="-0.720" id="Element11" width="1000" pan="103.250" stretch="0.778" roty="16.210" fov="16.990">
+        <source url="media/sample_11.jpg"/>
+      </image>
+      <image rotz="-0.120" popoutscaling="100" popbackmode="0" tilt="0.320" height="580" clickmode="0" hidepinned="0" handcursor="0" rotx="-1.020" id="Element12" width="1000" pan="78.700" stretch="0.797" roty="-12.230" fov="17.220">
+        <source url="media/sample_12.jpg"/>
+      </image>
+    </media>
+    <transition enabled="1" blendcolor="0x000000" zoomfov="40" type="crossdissolve" zoomout="0" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" delay="none" blendtime="1" zoomin="0" softedge="0"/>
+    <autorotate enabled="1" horizonfromdefview="0" noderandom="1" nodefilter="" returntohorizon="0.000" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.150" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextvr="1" zoomcentercursor="1" hideabout="0" invertwheel="0" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" sensitivity="10" invertcontrol="1" rubberband="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" tags="" title="" comment="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
